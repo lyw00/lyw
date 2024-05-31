@@ -1,0 +1,43 @@
+1교시(9~10)
+하이퍼파라미터 : 
+원핫인코딩
+2교시(10~11)
+
+출석문의
+
+
+3교시(11~12)
+
+https://seongjin.me/how-to-prepare-cka-exam/
+https://diseny.tistory.com/entry/%ED%98%BC%EB%8F%99%ED%96%89%EB%A0%ACconfusion-matrix?category=906035
+https://goldenrabbit.co.kr/2022/07/14/%ED%99%95%EC%8B%A4%ED%9E%88-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%A7%8C%EC%82%AC%EA%B0%80-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-10%EA%B0%80%EC%A7%80-%EC%95%8C/
+https://m.blog.naver.com/numerouno/222421914544
+커널
+혼동행렬
+automl 솔루션
+병록번호
+4교시(12~13)
+스탠다드스칼라
+엔트로피 : 각 클래스에 대한 확률을 가중치로 하여 계산 분류 정확도를 높이는 것을 목적으로 한다.
+비쥬얼라이즈/ 비쥬어라이제이션
+모델링-머신러닝
+
+파이썬 객체저장 모듈 pickle
+
+모듈 graphviz
+.dot 파일 익스포트하기
+k means 군집 모함
+~연산자
+
+knn/svm/tree/kmeans/clustering
+5교시(14~15)
+
+
+6교시(15~16)
+
+
+7교시(16~17)
+
+
+8교시(17~18)
+지역	학교명	코드	유형	주야	남학생수	여학생수	일반고	특성화고	과학고	외고_국제고	예고_체고	마이스터고	자사고	자공고	기타진학	취업	미상	위도	경도

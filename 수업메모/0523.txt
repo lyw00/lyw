@@ -1,0 +1,40 @@
+cd C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin
+mysql -u encore -p
+1교시(9~10)
+api사이트에서 데이터가져오기/
+https://www.google.com/robots.txt
+request를 통한 크롤링
+구글 새탭에서 우클릭 검사 - 네트워크 후 갱신 파일 도큐먼트
+헤더와 바디 개념 /편지봉투와 편지본문 같은 개념
+쿼리스트링 요청문자열
+
+페이지 소스 보기
+
+2교시(10~11)
+크롤링 예제
+
+3교시(11~12)
+
+to_csv 등으로 csv , xlsx 등 만들기
+4교시(12~13)
+
+https://www.neweracapkorea.com/shop/shopbrand.html?xcode=031&mcode=002&type=Y&gf_ref=Yz1vU0FlS3M=
+f12
+후 셀렉터  선택 후 우클릭 copy selecter
+
+#productClass > div > div.page-body > div.width1200 > div > table > tbody > tr:nth-child(2) > td:nth-child(1) > div > ul > li.dsc
+
+5교시(14~15)
+
+링크 따는거 
+6교시(15~16)
+
+
+7교시(16~17)
+
+
+8교시(17~18)
+
+
+
+

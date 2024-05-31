@@ -1,0 +1,87 @@
+1교시(9~10)
+orm  객체로 다루겠다/ sqlalchemy/장고
+
+order by asc/desc   
+having / as keyword
+group by + avg,min,max, 등등
+rollup
+DML: 데이터 조작 언어/트랜잭션이 발생하는 sql도 속함
+DDL: 데이터 정의 언어
+DCL: 데이터 제어 언어
+
+insert/update/delete/
+
+
+2교시(10~11)
+cast/convert
+형변환
+제어흐름함수(if,ifnull,nullif 등등)
+문자열 함수
+수학 함수
+날짜 및 시간 함수
+시스템 정보 함수
+
+피벗
+json 데이터 
+join : 두개의 테이블을 결합하는것 ㅂ
+
+3교시(11~12)
+조건문, 오류처리 ,iiner
+7장 수정해서 처리해보기 '
+단축키
+
+루틴 예제에서 만든 프로시저를 데이터베이스 우클릭으로 루틴 실행 
+drop procedr if exists ifpro2
+
+create 스키마
+
+4교시(12~13)
+프라이머리키 포린키 등등 
+인덱스 트리거 등등도 세팅 
+
+워크베티 툴 사요해보기
+
+테이블과 키
+
+
+인덱스/ b 트리 / 페이지 분할
+
+activate connection 확장 설치 : 바로 줄에서     실행시킬 수 있게 하는 확장자 
+
+뷰한번 만들어서 다루기
+
+데이터의 중복도/ 인덱스의 장점
+
+인덱스에 대한 결론
+데이터의 중복도가 높은 열은 인덱스 만들어도  효과 없음
+인덱스의 관리에 대한 비용 높은 경우 쓸모 없음
+
+인덱스에 대한 결론
+INSERT/UPDATE/DELETE가 얼마나 자주 일어나는지 고려해야 함
+인덱스는 단지 읽기에서만 성능 향상
+데이터의 변경에서는 오히려 
+
+스튜어드 함수 /커서 
+
+5교시(14~15)
+칼럼 드리프트 /트리거 (after,before_)
+검색
+
+6교시(15~16)
+
+sqlalchemy docu
+
+pip install pymysql
+pip install mysqlclient
+
+7교시(16~17)
+pip uninstall SQLAlchemy
+pip install sqlalchemy==1.4.52
+
+8교시(17~18)
+sqlalchemy cheet sheet
+http://192.168.0.12:5000/
+
+https://www.data.go.kr/
+크롬 툴??? 뭐지 웹 분석하는
+마지막에 진행한거 만들고 삭제하고 업데이트 ???

@@ -1,0 +1,115 @@
+1교시(9~10)
+laragon 다운
+
+data base 들어가서 사용자 만들기
+db와 dbms 정의 
+특징 : 데이터 무결성/독립성/보안/중복 최소화/응용 프로그램 제작 및 수정이 용이/ 안정성 향상
+
+db는 테이블이라는 최소 단위로 구성 테이블은 하나 이상의 열로 구성
+dbms 분류 : 계층형 dnms/ 망형 dbms
+
+2교시(10~11)
+amp (아파치, 마이sql 마리아, php) 통합세팅
+wamp, lamp
+
+비트나미 xampp 라라곤
+
+192.168.0.37:3306
+
+DBeaver
+
+관계형 dbms 장단점 : 유지보수 편리, 대용량 데이터 관리와 무결성 보장/ 자원을 많이 차지 - 느림(하드웨어 발달로 해결)
+
+employees 에서 점점점
+
+
+work bench
+추가
+
+cmd 
+윈도우에 환경변수 검색
+
+SETX PATH "%PATH%;C:\Program Files\MySQL\MySQL Server 5.7\bin"
+SETX PATH "%PATH%;C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin"
+
+질문 라라곤에서 mysql 대체? mysql 설치할 필요 x?
+
+3교시(11~12)
+
+비법ㄴ encore1234
+
+cmd에서 접속
+
+source
+cmd 접속 후
+source c:\Users\USER\Downloads\employees\employees.MySQL
+
+employees.sql vsc에서 접속후 
+C:\Users\USER\Downloads\employees 107줄부터 추가
+
+단축키 ctrl dd 로 수정
+4교시(12~13)
+
+가상환경과 인터프리터 새삼 중요
+
+
+5교시(14~15)
+
+mysql에서 show Database;
+cd C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin
+copy con my.cof
+net start my sql
+
+alter user 'encore'@'localhost' identified with mysql_native_password by '1234';
+
+ALTER user 'encore'@'%' IDENTIFIED WITH mysql_native_password BY '1234';
+
+6교시(15~16)
+
+ use mysql
+ select host, user from user;
+
+ 정보 시스템 구축 절차 역할
+
+ ID 선택 데이터 형식 : 데이터를 선택할때 지정한다 .
+
+기본키/ 외래키
+기본키: 중복 X , 비어 있음 X, 각 테이블에 하나만 지정 
+외래키: 두 테이블의 관계를 맺어주는 키 
+
+7교시(16~17)
+
+테이블 만들고 구성 킻 추가
+데이터베이스 생성 
+
+워크벤치 -스키마 탭
+스키마 만들기 utf8mb4 - general ci
+스키마들 만들기
+테이블 만들기
+p60
+
+cmd에서
+CREATE DATABASE `shop2` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+
+
+8교시(17~18)
+SELECT * FROM shop4.membertdl WHERE id = 'asdf';
+
+INSERT INTO membertdl (id, name, address) VALUES ('aaaa', 'kong', 'dang');
+
+삽입 삭제 수정 해보기
+
+인덱스 / 뷰(가상의 테이블)
+스토어드 프로시저 
+
+###############
+프로젝트
+
+데이터 정의 : 이용할 데이터 구상
+데이터 다운로드 및 수집- beautiful soup, selenium 활요
+
+mysql 설치 -완
+다이어 그램 만들기
+
+파이썬과 mysql 연동(?) : sql 구문을 파이썬에서 시키나?
+GUI : streamlit으로 

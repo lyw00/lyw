@@ -1,0 +1,78 @@
+1교시(9~10)
+트리거
+백업 : 데이터베이스 sql내보내기 ->db, table 생성, 데이터(설정들 한번 보기), 옵션, 출력
+파일명 : 날짜로 만들어보기 
+
+cmd에서
+cd C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin
+mysqldump --host="127.0.0.1" --port=3306 --user="encore" --password --result-file="C:\Users\USER\Desktop\2024_05_21_mysql.sql" --databases mysql
+
+2교시(10~11)
+폭포수모델
+데이테베이스 모델/ 다이어그램 글기
+
+
+3교시(11~12)
+,p124
+포워드 데이터베이스 리버스 
+
+싱글사이언
+서비스 주고 
+네비게이터
+ss
+p144
+역할 롤 - 어드미니스터에서 
+
+로그 뷰어 설치 https://alternativeto.net/ 여기서 검색
+
+logg.py ???
+
+4교시(12~13)
+
+
+5교시(14~15)
+
+
+6교시(15~16)
+
+파이썬에서 db file 등등 만들기
+로그 남기기
+
+cmd 에서 
+mysql 접속후 
+set GLOBAL general_log='ON';
+
+7교시(16~17)
+
+runner.py 실행후
+
+"C:\laragon\data\mysql-8\DESKTOP-263BAES.log" 가 생겼음
+set GLOBAL general_log='OFF';
+
+구글링 : roll base access control 싱글사인온
+
+cmd
+show databases;
+use logdb;
+show tables;    
+
+
+laragon 에서 
+쿼리: show table status;
+DESCRIBE logdb.`log`;   
+DESC logdb.log;
+SELECT * FROM log WHERE logLv = 'info';
+SELECT * FROM log WHERE logLv = 'info' AND message = '잘됨';
+SELECT * FROM log;
+#SELECT * FROM log WHERE logLv IN ('in' OR 'cr');
+SELECT * FROM log WHERE lineno = 24;
+SELECT * FROM log WHERE logLv LIKE 'in__';
+SELECT * FROM log WHERE message LIKE '잘';
+
+8교시(17~18)
+
+cd C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+mysqldump
+
+cd C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin
+mysql -u encore -p

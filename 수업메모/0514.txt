@@ -1,0 +1,46 @@
+1교시(09~10)
+ipynb 파일 esc + y = python, m=makrdown
+
+설정 >toggle cell mode 
+
+os.path 총정리// 구글링
+//참고
+https://velog.io/@ohdowon064/Python-os-%EB%AA%A8%EB%93%88%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8C%8C%EC%9D%BC%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B2%98%EB%A6%AC-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EA%B2%BD%EB%A1%9C-%ED%99%95%EC%9D%B8-%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD
+
+
+2교시(10~11)
+https://cyber0946.tistory.com/67
+
+외부모듈 설치 
+cntl + j 터미널
+
+3교시(11~12)
+#날짜 데이터 다중 포문으로 더 구현해보기
+
+# @어노테이션 생략도 가능 컴파일러(명시적(얄려줘))
+@데코레이더 // 미리 만들어 둔 데코레이터 <> 내가 만들어 쓰는 데코레이터
+함수를 감싸줘서 기능을 추가해준다
+함수를 변경하는거 
+
+4교시(12~13)
+
+flask run 안됨 해결하기 // 본문에서 스펠링 틀린거였음
+
+set FALSK_APP=0514.py
+flask run  했으면 됨
+환경변수 건들여 보기 
+
+
+5교시(14~15)
+web framework benchmarks 구글링
+#가변 키워드 문자
+
+6교시(15~16)
+
+
+7교시(16~17)
+
+
+8교시(17~18)
+
+

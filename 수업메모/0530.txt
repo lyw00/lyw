@@ -1,0 +1,55 @@
+1교시(9~10)
+matplotlib marker 종류 구글링
+https://www.google.com/search?q=matplotlib+marker+%EC%A2%85%EB%A5%98&oq=matplotlib+marker+%EC%A2%85%EB%A5%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDk5NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+import matplotlib.pyplot as plt
+plt.show()
+
+2교시(10~11)
+seaborn docu 구글링
+sphnix 구글링
+
+3교시(11~12)
+
+구글맵 하기
+
+#전처리 preprocessing
+
+4교시(12~13)
+엑샐 012 01
+원핫링코딩 5-12
+5교시(14~15)
+
+choropleth 모듈
+pip install scikit-learn
+
+라벨 레이블 
+정규화
+
+스탠다드 스케일러 정규분포 평균e 분산1 원래있던 값들을 다 바꿔준다
+인덱스 스케일러  최소값, 최댓값, 서버에서 값이 균등하게 분포할 수 있도록 변환
+시각화
+시계열 데이터 
+
+6교시(15~16)
+
+apply()
+map()
+applymap()
+
+pipe()
+예제 6.9번 조건걸기 확인 
+
+geeknews
+
+
+7교시(16~17)
+z score
+
+8교시(17~18)
+오버피팅
+언더피팅 
+
+
+cd C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin
+mysql -u encore -p

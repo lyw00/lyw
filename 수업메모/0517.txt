@@ -1,0 +1,86 @@
+1교시(9~10)
+https://docs.pysimplegui.com/en/latest/
+
+2교시(10~11)
+
+이미지 뷰어 프로그램 만들기
+
+내코드 원본코드 비교하는법 
+
+3교시(11~12)
+
+응용프로그램으로 만들기
+보안(실패시 해제)
+streamit
+스트림릿
+4교시(12~13)
+http://192.168.0.12:5000/
+https://devocean.sk.com/blog/techBoardDetail.do?ID=165094
+anaconda create -n streamlit ??? 이거였나?
+anaconda activate streamlit
+
+구글링 streamlit alternative
+alternative.io
+
+프로그램 아님
+포장 윈도우gui
+
+웹
+
+쉽게하자 단일언어로 우리고 고수준으로
+
+sg.input()
+
+st.input()
+
+웹서버() = >
+
+vsc 터미널에서 pip install streamlit
+
+pip freeze requirements.
+pip freeze -> requirements.txt
+
+pip install -r requirements.txt
+
+
+streamlit hello
+streamlit run
+5교시(14~15)
+//////
+streamlit run runner.py
+
+6교시(15~16)
+
+streamlit 예제
+
+7교시(16~17)
+https://confetti.js.org/more.html   
+코드 스닙핏
+
+mapflot 라이브러리 하근ㄹ 드가보기
+
+everything
+
+ ttf를 찾아 우클릭으로 열기 
+ 주소표시줄로 경로 확인 
+ 폰트 설정하는법
+https://ds31x.tistory.com/32
+
+
+8교시(17~18)
+
+
+
+주말: python 정리 및 본체에 세팅
+
+1. 설치(파이썬,anaconda,vsc)
+
+2. 입출력
+2. 여러 기능(format, upper&lower,strip, is00,split,f문자열 등등)
+3. 조건문
+4. 반복문
+5. 리스트, 딕셔너리
+6. 함수
+7. 예외처리
+8. 모듈
+9. 클래스는
